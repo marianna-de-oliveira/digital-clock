@@ -10,7 +10,7 @@ function setClock() {
 
 function currentDate() {
   const now = new Date()
-  const day = now.getDay() + 1
+  const day = now.getDate()
   const year = now.getFullYear()
   let month = now.getMonth() + 1
 
