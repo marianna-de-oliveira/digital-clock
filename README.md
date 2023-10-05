@@ -3,3 +3,5 @@ Hoje (5 de outubro de 2025) começo uma série de 25 projetos em JavaScript, que
 
 O primeiro projeto escolhido foi de um relógio digital, que também exibe o dia, mês e ano atuais.
 
+<img src="https://github.com/marianna-de-oliveira/digital-clock/blob/main/digital-clock/screen.png">
+
